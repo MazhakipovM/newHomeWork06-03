@@ -48,5 +48,7 @@ public class Main {
             massiv[t]+=1;
         }
         System.out.println(Arrays.toString(massiv));
+
+
     }
 }
